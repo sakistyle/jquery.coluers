@@ -1,5 +1,3 @@
-/* jslint devel: true, unparam: true, sloppy: true, vars: false, nomen: true, plusplus: true, maxerr: 1000, indent: 4 */
-/* global window, document, jQuery, $ */
 /*
  * jQuery Coluers
  * Copyright 2012 sakistyle
